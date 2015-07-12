@@ -8,3 +8,7 @@ float -> int: value is truncated, 1.6 -> 1
 int -> float: 1 -> 1.0
 out-of-range -> unsigned :8-bit unsigned char = -1 -> 255
 out-of-range -> signed: undefined(overflow)
+
+20 decimal
+024 octal
+0x14 hexadecimal
